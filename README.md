@@ -1,4 +1,4 @@
-# 1 | StackIt – A Minimal Q&A Forum Platform
+# 1 | Skill Swap Platform
 ## Team name: Code4U
 - **Team Leader:** [Bhavin Parmar]
 - **Team members:** [Poojan Patel], [Rutuja Waghchaure], [Jigar Patel]
