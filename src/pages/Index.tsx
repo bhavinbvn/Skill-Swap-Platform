@@ -189,7 +189,7 @@ const Index = () => {
               Connecting learners and teachers worldwide
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 SkillSwap. All rights reserved.
+              © 2025 SkillSwap. All rights reserved.
             </p>
           </div>
         </div>
